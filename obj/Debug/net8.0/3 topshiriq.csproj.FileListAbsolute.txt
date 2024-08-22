@@ -1,0 +1,4 @@
+D:\VSCode (mohirdev)\3 topshiriq\obj\Debug\net8.0\3 topshiriq.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode (mohirdev)\3 topshiriq\obj\Debug\net8.0\3 topshiriq.AssemblyInfoInputs.cache
+D:\VSCode (mohirdev)\3 topshiriq\obj\Debug\net8.0\3 topshiriq.AssemblyInfo.cs
+D:\VSCode (mohirdev)\3 topshiriq\obj\Debug\net8.0\3 topshiriq.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\bin\Debug\net8.0\Masala4.exe
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\bin\Debug\net8.0\Masala4.deps.json
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\bin\Debug\net8.0\Masala4.runtimeconfig.json
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\bin\Debug\net8.0\Masala4.dll
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\bin\Debug\net8.0\Masala4.pdb
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\obj\Debug\net8.0\Masala4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\obj\Debug\net8.0\Masala4.AssemblyInfoInputs.cache
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\obj\Debug\net8.0\Masala4.AssemblyInfo.cs
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\obj\Debug\net8.0\Masala4.csproj.CoreCompileInputs.cache
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\obj\Debug\net8.0\Masala4.dll
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\obj\Debug\net8.0\refint\Masala4.dll
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\obj\Debug\net8.0\Masala4.pdb
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\obj\Debug\net8.0\Masala4.genruntimeconfig.cache
+D:\VSCode (mohirdev)\3 topshiriq\Masala4\obj\Debug\net8.0\ref\Masala4.dll
