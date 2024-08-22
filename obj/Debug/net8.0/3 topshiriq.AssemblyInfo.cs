@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3 topshiriq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f57a6647248254ac25c412f65056e798e31d85c")]
 [assembly: System.Reflection.AssemblyProductAttribute("3 topshiriq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3 topshiriq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
